@@ -1,0 +1,29 @@
+.panel{
+    border:3px solid black;
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px 3px red;
+    box-sizing: border-box;
+    width:60vw;
+    height: 80vh;
+}
+
+.row{
+    color:black;
+}
+
+footer {
+    position: relative;
+    height: 100px;
+    width: 100%;
+   
+}
+
+p.copyright {
+    position: absolute;
+    width: 100%;
+    color:black;
+    line-height: 40px;
+    font-size: 0.7em;
+    text-align: center;
+    bottom:0;
+}

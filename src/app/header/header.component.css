@@ -1,0 +1,7 @@
+.nav-link{
+    color: navy;
+    font-style: initial
+}
+.nav-link:hover{
+background-color:pink;
+}
